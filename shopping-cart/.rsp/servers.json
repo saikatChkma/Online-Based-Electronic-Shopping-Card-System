@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "id": "tomcat9",
+      "name": "Tomcat 9",
+      "type": "tomcat",
+      "version": "9",
+      "location": "E:\\Downloads\\apache-tomcat-9.0.116-windows-x64\\apache-tomcat-9.0.116",
+      "autoPublish": true,
+      "inactivityLimit": 0
+    }
+  ]
+}

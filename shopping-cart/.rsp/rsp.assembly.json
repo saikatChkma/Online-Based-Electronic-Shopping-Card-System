@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "mappings": [
+    {
+      "source": "target/classes",
+      "target": "/WEB-INF/classes",
+      "includes": ["**/*.class"],
+      "excludes": []
+    },
+    {
+      "source": "WebContent",
+      "target": "/",
+      "includes": ["**/*"],
+      "excludes": ["WEB-INF/**"]
+    }
+  ]
+}

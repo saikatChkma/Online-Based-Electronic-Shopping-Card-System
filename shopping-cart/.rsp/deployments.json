@@ -1,0 +1,10 @@
+{
+  "deployments": [
+    {
+      "serverId": "tomcat9",
+      "reference": "c:\\Users\\USER\\OneDrive\\Desktop\\3-1 project\\shopping-cart",
+      "type": "maven",
+      "contextPath": "/shopping-cart"
+    }
+  ]
+}
