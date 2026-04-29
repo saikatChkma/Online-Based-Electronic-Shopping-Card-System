@@ -1,5 +1,5 @@
-# Online Shopping Cart (E-Commerce Website)
-- Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
+Online Based Electronic Shopping Cart
+
 <!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
 <!-- Live site url: https://ellisonelectronics.herokuapp.com -->
 This is an E-Commerce Website build for selling of any electronics products online.
@@ -64,7 +64,7 @@ Step 2 : Go to [https://myaccount.google.com/security](https://myaccount.google.
 
 Step 3: Go to [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) and enter password if asked
 
-Step 4: In Select an App Section: select Other (custom name) => enter "Ellison Electronics" => Generate
+Step 4: In Select an App Section: select Other (custom name) => enter " Electronics shop" => Generate
 
 Step 5: After that it will generate 16 digits app password which you need to copy and save for future configurations.
 
@@ -152,7 +152,6 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                       
 
 
